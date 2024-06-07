@@ -1,3 +1,3 @@
 # myfirst
-i m going for my first repo
-author-somesh
+i m going for my first repo .
+Author-somesh
